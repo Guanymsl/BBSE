@@ -1,0 +1,3 @@
+[submodule "ex8/BBSEToken/lib/openzeppelin-contracts"]
+	path = ex8/BBSEToken/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
